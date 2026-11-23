@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: real-estate-agency
+Version: 1.0.0
+Summary: Учебный проект: система учёта агентства недвижимости
+Author: Student
+Requires-Python: >=3.10
+Provides-Extra: test
+Requires-Dist: pytest>=7.4.0; extra == "test"
+Dynamic: author
+Dynamic: provides-extra
+Dynamic: requires-python
+Dynamic: summary
